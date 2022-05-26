@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Watch documentals
+- Listen music
+- Reading news and articles
+- Do some social media (primarly FB)
+- Learning new stuff (like learning to use GitHub right now)
